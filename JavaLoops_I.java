@@ -10,6 +10,6 @@ public class JavaLoops_I {
             {
                 int k = N * i;
                 System.out.println(N +" x "+ i +" = "+ k);
-            }            
+            }           
     }
 }
